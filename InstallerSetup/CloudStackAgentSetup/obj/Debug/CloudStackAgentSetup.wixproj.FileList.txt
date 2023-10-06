@@ -1,0 +1,10 @@
+C:\Users\Dieckmann\Downloads\Cloudstack\Cloudstack\cloudstack-main\plugins\hypervisors\hyperv\DotNet\InstallerSetup\CloudStackAgentSetup\bin\Debug\CloudStackAgentSetup.msi
+C:\Users\Dieckmann\Downloads\Cloudstack\Cloudstack\cloudstack-main\plugins\hypervisors\hyperv\DotNet\InstallerSetup\CloudStackAgentSetup\bin\Debug\CloudStackAgentSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\CredentialsDlg.wixobj
+obj\Debug\CertificateDlg.wixobj
+obj\Debug\CSUI_FeatureTree.wixobj
+obj\Debug\UpgradeDowngradeDlg.wixobj
+obj\Debug\CloudStackAgentSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\CloudStackAgentSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\CloudStackAgentSetup.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,2 @@
+C:\Users\Dieckmann\Downloads\Cloudstack\Cloudstack\cloudstack-main\plugins\hypervisors\hyperv\DotNet\InstallerSetup\CloudStackAgentSetup\bin\Debug\CloudStackAgentSetup.msi
+C:\Users\Dieckmann\Downloads\Cloudstack\Cloudstack\cloudstack-main\plugins\hypervisors\hyperv\DotNet\InstallerSetup\CloudStackAgentSetup\bin\Debug\CloudStackAgentSetup.wixpdb

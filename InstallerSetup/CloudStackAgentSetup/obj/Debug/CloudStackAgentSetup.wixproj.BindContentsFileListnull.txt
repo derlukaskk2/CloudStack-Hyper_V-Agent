@@ -1,0 +1,11 @@
+..\..\ServerResource\AgentShell\bin\Debug\AgentShell.exe
+..\..\ServerResource\AgentShell\bin\Debug\AgentShell.exe.config
+..\..\ServerResource\AgentShell\bin\Debug\AWSSDK.dll
+..\..\ServerResource\AgentShell\bin\Debug\HypervResource.dll
+..\..\ServerResource\AgentShell\bin\Debug\Ionic.Zip.dll
+..\..\ServerResource\AgentShell\bin\Debug\log4net.dll
+..\..\ServerResource\AgentShell\bin\Debug\Newtonsoft.Json.dll
+..\..\ServerResource\AgentShell\bin\Debug\System.Net.Http.Formatting.dll
+..\..\ServerResource\AgentShell\bin\Debug\System.Web.Http.dll
+..\..\ServerResource\AgentShell\bin\Debug\System.Web.Http.SelfHost.dll
+..\..\ServerResource\AgentShell\bin\Debug\WmiWrappers.dll
